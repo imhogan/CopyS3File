@@ -8,7 +8,7 @@
  * 
  * This template loads the code from a bucket in the AWS region the Stack is being deployed in. 
  * 
- * These buckets are readable by any AWS account, and are set to User Pays mode.
+ * These buckets are readable by any AWS account.
  * 
  * Ian.Hogan@THINKronicity.com.au
  *
